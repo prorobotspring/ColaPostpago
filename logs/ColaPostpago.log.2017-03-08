@@ -1,0 +1,88 @@
+[2017Mar08 15:00:36,985][INFO ][1489001436985][doPost SolicitudConsPostServlet.java:63][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_PLBLS_IN>
+	<Login>String</Login>
+	<Channel></Channel>
+	<System></System>
+	<MSISDN>
+		<Number>584128524234</Number>
+	</MSISDN>
+</RTBS_PLBLS_IN>]
+[2017Mar08 15:00:36,994][DEBUG][1489001436985][processRequest FCController.java:78][<?xml version="1.0" encoding="UTF-8"?>
+<RTBS_PLBLS_IN>
+	<Login>String</Login>
+	<Channel></Channel>
+	<System></System>
+	<MSISDN>
+		<Number>584128524234</Number>
+	</MSISDN>
+</RTBS_PLBLS_IN>]
+[2017Mar08 15:00:36,995][DEBUG][1489001436985][buildRequest FCHelper.java:52][INICIO de parser XML de entrada]
+[2017Mar08 15:00:37,129][DEBUG][1489001436985][execute SolicitudQueueSubmiter.java:129][Nuevo request: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_PLBLS_IN>
+	<Login>String</Login>
+	<Channel></Channel>
+	<System></System>
+	<MSISDN>
+		<Number>584128524234</Number>
+	</MSISDN>
+</RTBS_PLBLS_IN>]
+[2017Mar08 15:00:37,173][INFO ][1489001436985][execute SolicitudQueueSubmiter.java:134][Nuevo request enviado a la cola de solicitudes]
+[2017Mar08 15:00:37,192][DEBUG][1489001436985][assembly NameSustitutionCmdAdapter.java:201][Ensamblando lista de COMPONENTES para la construccion del COMANDO]
+[2017Mar08 15:00:37,194][DEBUG][1489001436985][processRequest FCController.java:132][Response: <?xml version="1.0" encoding="UTF-8" ?> 
+ <EAIMessage>
+	<IBX_ADP_OUT_PARAMETERS>
+		<PARAM name="ERROR_CODE" value="0"/> 
+		<PARAM name="ERROR_DESCRIPTION" value="Proceso completado con exito"/>
+	</IBX_ADP_OUT_PARAMETERS>
+ </EAIMessage>]
+[2017Mar08 15:00:37,195][INFO ][1489001436985][doPost SolicitudConsPostServlet.java:67][Response Recibido: <?xml version="1.0" encoding="UTF-8" ?> 
+ <EAIMessage>
+	<IBX_ADP_OUT_PARAMETERS>
+		<PARAM name="ERROR_CODE" value="0"/> 
+		<PARAM name="ERROR_DESCRIPTION" value="Proceso completado con exito"/>
+	</IBX_ADP_OUT_PARAMETERS>
+ </EAIMessage>]
+[2017Mar08 21:14:09,901][INFO ][1489023849901][doPost SolicitudConsPostServlet.java:63][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_PLBLS_IN>
+	<Login>String</Login>
+	<Channel></Channel>
+	<System></System>
+	<MSISDN>
+		<Number>584120422397</Number>
+	</MSISDN>
+</RTBS_PLBLS_IN>]
+[2017Mar08 21:14:09,913][DEBUG][1489023849901][processRequest FCController.java:78][<?xml version="1.0" encoding="UTF-8"?>
+<RTBS_PLBLS_IN>
+	<Login>String</Login>
+	<Channel></Channel>
+	<System></System>
+	<MSISDN>
+		<Number>584120422397</Number>
+	</MSISDN>
+</RTBS_PLBLS_IN>]
+[2017Mar08 21:14:09,914][DEBUG][1489023849901][buildRequest FCHelper.java:52][INICIO de parser XML de entrada]
+[2017Mar08 21:14:09,927][DEBUG][1489023849901][execute SolicitudQueueSubmiter.java:129][Nuevo request: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_PLBLS_IN>
+	<Login>String</Login>
+	<Channel></Channel>
+	<System></System>
+	<MSISDN>
+		<Number>584120422397</Number>
+	</MSISDN>
+</RTBS_PLBLS_IN>]
+[2017Mar08 21:14:09,942][INFO ][1489023849901][execute SolicitudQueueSubmiter.java:134][Nuevo request enviado a la cola de solicitudes]
+[2017Mar08 21:14:09,945][DEBUG][1489023849901][assembly NameSustitutionCmdAdapter.java:201][Ensamblando lista de COMPONENTES para la construccion del COMANDO]
+[2017Mar08 21:14:09,946][DEBUG][1489023849901][processRequest FCController.java:132][Response: <?xml version="1.0" encoding="UTF-8" ?> 
+ <EAIMessage>
+	<IBX_ADP_OUT_PARAMETERS>
+		<PARAM name="ERROR_CODE" value="0"/> 
+		<PARAM name="ERROR_DESCRIPTION" value="Proceso completado con exito"/>
+	</IBX_ADP_OUT_PARAMETERS>
+ </EAIMessage>]
+[2017Mar08 21:14:09,947][INFO ][1489023849901][doPost SolicitudConsPostServlet.java:67][Response Recibido: <?xml version="1.0" encoding="UTF-8" ?> 
+ <EAIMessage>
+	<IBX_ADP_OUT_PARAMETERS>
+		<PARAM name="ERROR_CODE" value="0"/> 
+		<PARAM name="ERROR_DESCRIPTION" value="Proceso completado con exito"/>
+	</IBX_ADP_OUT_PARAMETERS>
+ </EAIMessage>]

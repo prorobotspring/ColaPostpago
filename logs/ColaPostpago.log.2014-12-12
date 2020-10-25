@@ -1,0 +1,36 @@
+[2014Dec12 20:54:14,499][INFO ][][configurarLogger BSSIntLogger.java:67][APLICACION: ColaPostpago - VERSION: 1.0]
+[2014Dec12 20:54:14,525][INFO ][][configurarLogger BSSIntLogger.java:69][DESCRIPCION: Servicios de Integracion - Servicio de consulta de saldo postpago]
+[2014Dec12 20:54:14,528][INFO ][1418433854528][doPost SolicitudConsPostServlet.java:63][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_PLBLS_IN>
+	<Login>String</Login>
+	<Channel></Channel>
+	<System></System>
+	<MSISDN>
+		<Number>584128843444</Number>
+	</MSISDN>
+</RTBS_PLBLS_IN>]
+[2014Dec12 20:54:15,160][INFO ][1418433854528][execute SolicitudQueueSubmiter.java:134][Nuevo request enviado a la cola de solicitudes]
+[2014Dec12 20:54:15,166][INFO ][1418433854528][doPost SolicitudConsPostServlet.java:67][Response Recibido: <?xml version="1.0" encoding="UTF-8" ?> 
+ <EAIMessage>
+	<IBX_ADP_OUT_PARAMETERS>
+		<PARAM name="ERROR_CODE" value="0"/> 
+		<PARAM name="ERROR_DESCRIPTION" value="Proceso completado con exito"/>
+	</IBX_ADP_OUT_PARAMETERS>
+ </EAIMessage>]
+[2014Dec12 22:50:38,518][INFO ][1418440838518][doPost SolicitudConsPostServlet.java:63][XML Recibido: <?xml version="1.0" encoding="UTF-8"?>
+<RTBS_PLBLS_IN>
+	<Login>String</Login>
+	<Channel></Channel>
+	<System></System>
+	<MSISDN>
+		<Number>584124064208</Number>
+	</MSISDN>
+</RTBS_PLBLS_IN>]
+[2014Dec12 22:50:38,584][INFO ][1418440838518][execute SolicitudQueueSubmiter.java:134][Nuevo request enviado a la cola de solicitudes]
+[2014Dec12 22:50:38,619][INFO ][1418440838518][doPost SolicitudConsPostServlet.java:67][Response Recibido: <?xml version="1.0" encoding="UTF-8" ?> 
+ <EAIMessage>
+	<IBX_ADP_OUT_PARAMETERS>
+		<PARAM name="ERROR_CODE" value="0"/> 
+		<PARAM name="ERROR_DESCRIPTION" value="Proceso completado con exito"/>
+	</IBX_ADP_OUT_PARAMETERS>
+ </EAIMessage>]

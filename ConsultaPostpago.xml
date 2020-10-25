@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><EAIMessage MessageId="000000000003949" IntObjectName="PSPQRYGSMSTT"><IBX_ADP_IN_PARAMETERS><PARAM name="ACCOUNT_ID" value=""/><PARAM name="MSISDN" value="${MSISDN}"/><PARAM name="ERROR_CODE" value=""/><PARAM name="ERROR_DESCRIPTION" value=""/></IBX_ADP_IN_PARAMETERS></EAIMessage>

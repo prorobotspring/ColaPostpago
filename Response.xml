@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+ <EAIMessage>
+	<IBX_ADP_OUT_PARAMETERS>
+		<PARAM name="ERROR_CODE" value="${errorCode}"/> 
+		<PARAM name="ERROR_DESCRIPTION" value="${errorDescription}"/>
+	</IBX_ADP_OUT_PARAMETERS>
+ </EAIMessage>
